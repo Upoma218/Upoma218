@@ -96,7 +96,6 @@ If I had to choose a superpower, it would be instant knowledge absorption. Imagi
 
 - I achieved a Black Belt on programming from Programming Hero.
 - Secured Rank-8 on Web Application Showcase Contest(Season-2) organized by Programming Hero.
-and add and attractive footer with copyright and important information, given initially
 
 ---
 

@@ -101,7 +101,6 @@ and add and attractive footer with copyright and important information, given in
 ---
 
 <div align="center">
-  <p>© 2024 Upoma. All rights reserved.</p>
   <p>This profile is a testament to dedication, passion, and continuous growth in the field of technology.</p>
   <p text="center" font="bold">Contact Information</p>
   <p>

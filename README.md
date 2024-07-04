@@ -9,11 +9,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" align="right">
 
 - **🌟 Passion**: Using technology to create meaningful solutions that positively impact lives.
-- **💻 Hobbies**: Playing with code, singing, reciting poems, and podcasting.
-- **🎓 Background**: Transitioned from a non-technical background to mastering web development technologies through self-study and hands-on projects.
-- **🌱 Fun Facts**: Believes in continuous learning, kindness, and perseverance as keys to personal growth and success.
-- **🌍 Vision**: If money were not an issue, she'd create educational tech for underprivileged communities.
-- **🎙️ Podcast**: Manages a podcast channel on YouTube discussing web development, technology trends, and personal growth.
+- **💻 Hobbies**: Believes in continuous learning, kindness, and perseverance as keys to personal growth and success.
+- **🎓 Background**: Transitioned from a non-technical background to mastering web development technologies through various courses, self-study and hands-on projects.
+- **🌱 Fun Facts**: Playing with code, singing, reciting poems, and podcasting.
+- **🌍 Vision**: Build and lead personal Tech Industry.
 
 ## 📚 Books I Love
 
@@ -69,6 +68,20 @@
 - Frontend Code GitHub Link: [https://github.com/Upoma218/blood-donation-app-frontend](https://github.com/Upoma218/blood-donation-app-frontend)
 - Backend Code GitHub Link: [https://github.com/Upoma218/blood-donation-app-server](https://github.com/Upoma218/blood-donation-app-server)
 
+## 💻 Skills
+
+### Frontend
+![React](https://img.icons8.com/color/48/000000/react-native.png) ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) ![Redux](https://img.icons8.com/color/48/000000/redux.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png&color=000000) ![Material UI](https://img.icons8.com/color/48/000000/material-ui.png) 
+
+### Backend
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express.js](https://img.icons8.com/color/48/000000/express.png) ![REST API](https://img.icons8.com/color/48/000000/api.png)
+
+### Databases
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![PostgreSQL](https://img.icons8.com/?size=48&id=38561&format=png&color=000000) ![Prisma ORM](https://img.icons8.com/?size=48&id=zJh5Gyrd6ZKu&format=png&color=000000)
+
+### Other Tools
+![GitHub](https://img.icons8.com/color/48/000000/github.png) ![Vite](https://img.icons8.com/color/48/000000/vite.png) ![Netlify](https://img.icons8.com/?size=48&id=YsPdguLCFOMH&format=png&color=000000) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+
 ## 📊 GitHub Profile Summary Cards
 
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Upoma218&theme=midnight_purple)
@@ -86,7 +99,7 @@ I live by the principle that continuous learning, kindness, and perseverance lea
 
 ## 🌠 Words of Advice to My Younger Self
 
-To my younger self: Embrace learning and take risks; failure is a path to success. Trust your abilities and stay resilient. Value relationships and prioritize your health. Seek balance in life; work hard but also enjoy and pursue your passions.
+Embrace learning and take risks; failure is a path to success. Trust your abilities and stay resilient. Value relationships and prioritize your health. Seek balance in life; work hard but also enjoy and pursue your passions.
 
 ## 🦸‍♂️ Superpower
 

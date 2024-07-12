@@ -71,16 +71,16 @@
 ## 💻 Skills
 
 ### Frontend
-![React](https://img.icons8.com/color/48/000000/react-native.png) ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) ![Redux](https://img.icons8.com/color/48/000000/redux.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png&color=000000) ![Material UI](https://img.icons8.com/color/48/000000/material-ui.png) 
+![React](https://img.icons8.com/color/100/000000/react-native.png) ![Next.js](https://img.icons8.com/color/100/000000/nextjs.png) ![Redux](https://img.icons8.com/color/100/000000/redux.png) ![TypeScript](https://img.icons8.com/color/100/000000/typescript.png) ![HTML5](https://img.icons8.com/color/100/000000/html-5.png) ![CSS3](https://img.icons8.com/color/100/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/100/000000/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000) ![Material UI](https://img.icons8.com/color/100/000000/material-ui.png) 
 
 ### Backend
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express.js](https://img.icons8.com/color/48/000000/express.png) ![REST API](https://img.icons8.com/color/48/000000/api.png)
+![Node.js](https://img.icons8.com/color/100/000000/nodejs.png) ![Express.js](https://img.icons8.com/color/100/000000/express.png) ![REST API](https://img.icons8.com/color/100/000000/api.png)
 
 ### Databases
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![PostgreSQL](https://img.icons8.com/?size=48&id=38561&format=png&color=000000) ![Prisma ORM](https://img.icons8.com/?size=48&id=zJh5Gyrd6ZKu&format=png&color=000000)
+![MongoDB](https://img.icons8.com/color/100/000000/mongodb.png) ![PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000) ![Prisma ORM](https://img.icons8.com/?size=100&id=zJh5Gyrd6ZKu&format=png&color=000000)
 
 ### Other Tools
-![GitHub](https://img.icons8.com/color/48/000000/github.png) ![Vite](https://img.icons8.com/color/48/000000/vite.png) ![Netlify](https://img.icons8.com/?size=48&id=YsPdguLCFOMH&format=png&color=000000) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+![GitHub](https://img.icons8.com/color/100/000000/github.png) ![Vite](https://img.icons8.com/color/100/000000/vite.png) ![Netlify](https://img.icons8.com/?size=100&id=YsPdguLCFOMH&format=png&color=000000) ![Firebase](https://img.icons8.com/color/100/000000/firebase.png)
 
 ## 📊 GitHub Profile Summary Cards
 

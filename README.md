@@ -1,6 +1,6 @@
 # WELCOME TO MY PROFILE!
 
-![Header Image](https://github.com/Upoma218/Upoma218/blob/main/header.gif)
+![Header Image](https://github.com/Upoma218/Upoma218/blob/main/cover.gif)
 
 👋 Hey there! I'm Upoma, a dedicated Full Stack Developer on a mission to craft exceptional digital experiences. As I embark on my journey in the tech world, I bring a fresh perspective and a strong passion for learning and innovation.
 

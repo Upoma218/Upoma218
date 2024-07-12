@@ -1,6 +1,6 @@
 # WELCOME TO MY PROFILE!
 
-![Header Image](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240704%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240704T174206Z&X-Amz-Expires=300&X-Amz-Signature=bfff2d1f028bd72eb8e59287b91de88a785a3540bec90fef02ab824ad674055d&X-Amz-SignedHeaders=host&actor_id=108362603&key_id=0&repo_id=588181932)
+![Header Image](https://github.com/Upoma218/Upoma218/blob/main/header.gif)
 
 👋 Hey there! I'm Upoma, a dedicated Full Stack Developer on a mission to craft exceptional digital experiences. As I embark on my journey in the tech world, I bring a fresh perspective and a strong passion for learning and innovation.
 
